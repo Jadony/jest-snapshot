@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`测试 config1 返回值 1`] = `
+Object {
+  "method": "GET",
+  "time": Any<Date>,
+  "url": "/api",
+}
+`;
+
+exports[`测试 config2 返回值 1`] = `
+Object {
+  "method": "GET",
+  "time": Any<Number>,
+  "url": "/api",
+}
+`;
