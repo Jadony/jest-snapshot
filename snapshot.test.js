@@ -1,11 +1,3 @@
-/*
- * @Author: 安风 jiadongyao@cai-inc.com
- * @Date: 2023-02-23 22:11:23
- * @LastEditors: 安风 jiadongyao@cai-inc.com
- * @LastEditTime: 2023-03-15 19:35:32
- * @FilePath: /auto-test-jest-learn/jest中的snapshot快照/snapshot.test.js
- * @Description:
- */
 import { config1, config2 } from "./snapshot";
 
 test('测试 config1 返回值', () => {
